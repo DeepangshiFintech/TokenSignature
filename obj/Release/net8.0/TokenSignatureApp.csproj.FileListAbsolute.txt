@@ -1,0 +1,14 @@
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/bin/Release/net8.0/TokenSignatureApp
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/bin/Release/net8.0/TokenSignatureApp.deps.json
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/bin/Release/net8.0/TokenSignatureApp.runtimeconfig.json
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/bin/Release/net8.0/TokenSignatureApp.dll
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/bin/Release/net8.0/TokenSignatureApp.pdb
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/obj/Release/net8.0/TokenSignatureApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/obj/Release/net8.0/TokenSignatureApp.AssemblyInfoInputs.cache
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/obj/Release/net8.0/TokenSignatureApp.AssemblyInfo.cs
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/obj/Release/net8.0/TokenSignatureApp.csproj.CoreCompileInputs.cache
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/obj/Release/net8.0/TokenSignatureApp.dll
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/obj/Release/net8.0/refint/TokenSignatureApp.dll
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/obj/Release/net8.0/TokenSignatureApp.pdb
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/obj/Release/net8.0/TokenSignatureApp.genruntimeconfig.cache
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/obj/Release/net8.0/ref/TokenSignatureApp.dll

@@ -1,0 +1,5 @@
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/publish/TokenSignatureApp
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/publish/TokenSignatureApp.dll
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/publish/TokenSignatureApp.deps.json
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/publish/TokenSignatureApp.runtimeconfig.json
+/home/dev3/FintechConsole/TokenSignatureApp/TokenSignatureApp/publish/TokenSignatureApp.pdb
